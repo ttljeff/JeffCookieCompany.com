@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 #ignore all .txt files
+=======
+#ignore all with .txt files
+>>>>>>> FixTemp
 *.txt
